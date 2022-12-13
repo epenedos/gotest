@@ -1,0 +1,6 @@
+#!/bin/bash
+
+
+mv /tmp/src /opt/app-root
+
+go build
